@@ -21,4 +21,4 @@ This is a **Chess Game** built using **HTML**, **CSS**, and **JavaScript**. It a
 ## How to Play
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/chess-game.git
+   git clone https://github.com/sakarthapa100/Simple-Chess.git
