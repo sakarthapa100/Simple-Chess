@@ -18,7 +18,7 @@ This is a **Chess Game** built using **HTML**, **CSS**, and **JavaScript**. It a
 <!-- Add screenshots here if you have any. For example: -->
 ![Chess Game Screenshot](./screenshot.png)
 
-## How to Play
+## How to Play..
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/sakarthapa100/Simple-Chess.git
